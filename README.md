@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahidvv" alt="sahidvv" /></a> </p>
 
-- 🌱 Actualmente estoy aprendiendo sobre **blogs, repositorios y publicaciones**.
+- 🌱 Actualmente estoy aprendiendo sobre **Lenguajes de Frontend y Backend**.
 - 💬 Pregúntame sobre **Node, React, Java**.
 - 📫 Cómo contactarme: **sahidvilic.wh@gmail.com**.
 
