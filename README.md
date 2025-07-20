@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Yo soy Sahid</h1>
-<h3 align="center">Desarrollador Full Stack con experiencia en análisis y automatización de datos, especializado en la creación de paneles interactivos y la generación de informes detallados. Manejo SQL y lenguajes como Java, Python, C#.</h3>
+<h3 align="center">Soy un apasionado desarrollador junior, con +1 año de experiencia construyendo interfaces modernas y sistemas funcionales en entornos reales. Me especializo en React, Node.js y experiencia sólida con Python y Django, con capacidad para crear soluciones escalables, completas y optimizadas para usuarios finales.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidvv&label=Profile%20views&color=0e75b6&style=flat" alt="sahidvv" /> </p>
 
