@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Yo soy Sahid</h1>
-<h3 align="center">Soy un apasionado desarrollador junior, con +1 año de experiencia construyendo interfaces modernas y sistemas funcionales en entornos reales. Me especializo en React, Node.js y experiencia sólida con Python y Django, con capacidad para crear soluciones escalables, completas y optimizadas para usuarios finales.</h3>
+<h3 align="center">Desarrollador Full Stack con +2 años de experiencia en el diseño, desarrollo y despliegue de aplicaciones web (Front-Back). Experiencia en arquitecturas escalables, integración de APIs RESTful, manejo de bases de datos R/NR. Con conocimientos sólidos en Angular, React, Next.js, Node.js, NestJs, Django, AWS, Docker y CI/CD. Competente en metodologías ágiles (Scrum, Kanban) y en la aplicación de buenas prácticas de seguridad y optimización de rendimiento.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidvv&label=Profile%20views&color=0e75b6&style=flat" alt="sahidvv" /> </p>
 
